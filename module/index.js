@@ -1,8 +1,8 @@
 /* eslint class-methods-use-this: ["error", { "exceptMethods": ["changeContent", "update"] }] */
 /* eslint-disable linebreak-style */
-import Book from './module/constructor.js';
-import Store from './module/store.js';
-import Navigation from './module/navigation.js';
+import Book from './constructor.js';
+import Store from './store.js';
+import Navigation from './navigation.js';
 
 const date = window.luxon;
 
