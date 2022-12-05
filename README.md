@@ -55,6 +55,7 @@ Here are some features of the page:
 
 Add a book to your collection.
 Remove a book from your collection.
+Display list of added books
 Store your data history in the browser's memory.
 
 
@@ -135,13 +136,6 @@ Clone this repository to your desired folder:
   <br>
 <img src="/images/facebook.svg" alt="logo" width="18"  height="18" />[facebook](https://www.facebook.com/lucash.toni)
 
-<h4>Kashif-Saleem-Ghuman</h4>
-
-<img src="/images/github.svg" alt="logo" width="18"  height="18" />[githubhandle](https://github.com/Kashif-Saleem-Ghuman)
-<br>
-<img src="/images/linkedin.svg" alt="logo" width="18"  height="18" />[linkedIn](https://www.linkedin.com/in/kashif-saleem-45ba95215/)
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,12 +179,9 @@ Give a ⭐️ if you like this project!
 
 [Google Fonts](https://developers.google.com/fonts)
 
-
 [Bootsrtap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
-
 [Luxon](https://imdac.github.io/modules/js/luxon/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
